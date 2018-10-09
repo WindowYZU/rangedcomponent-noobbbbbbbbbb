@@ -49,6 +49,6 @@ public class Slider1 {
         frame.add(slider);
         
         frame.setVisible(true);
-    }
+    } 
     
 }
